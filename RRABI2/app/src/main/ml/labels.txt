@@ -1,0 +1,11 @@
+0 American Curl
+1 American Shorthair
+2 Bengal
+3 British Shorthair
+4 Domestic Shorthair 
+5 Exotic Shorthair 
+6 Himalayan Cat
+7 Persian Cat
+8 Russian Blue 
+9 Siamese Cat
+10 None

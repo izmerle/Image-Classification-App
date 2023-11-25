@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">RRABI2</string>
+
+    <string-array name="location_spinner">
+        <item>Alapan I-A</item>
+        <item>Alapan I-B</item>
+        <item>Alapan I-C</item>
+        <item>Alapan II-A</item>
+        <item>Alapan II-B</item>
+        <item>Bucandala I</item>
+        <item>Bucandala II</item>
+        <item>Bucandala III</item>
+        <item>Bucandala IV</item>
+        <item>Bucandala V</item>
+        <item>Carsadang Bago I</item>
+        <item>Carsadang Bago II</item>
+        <item>Malagasang I-A</item>
+        <item>Malagasang I-B</item>
+        <item>Malagasang I-C</item>
+        <item>Malagasang I-D</item>
+        <item>Malagasang I-E</item>
+        <item>Malagasang I-F</item>
+        <item>Malagasang I-G</item>
+        <item>Malagasang II-A</item>
+        <item>Malagasang II-B</item>
+        <item>Malagasang II-C</item>
+        <item>Malagasang II-D</item>
+        <item>Malagasang II-E</item>
+        <item>Malagasang II-F</item>
+        <item>Malagasang II-G</item>
+        <item>Medicion I-A</item>
+        <item>Medicion I-B</item>
+        <item>Medicion I-C</item>
+        <item>Medicion I-D</item>
+        <item>Medicion II-A</item>
+        <item>Medicion II-B</item>
+        <item>Medicion II-C</item>
+        <item>Medicion II-D</item>
+        <item>Medicion II-E</item>
+        <item>Medicion II-F</item>
+        <item>Pag-asa I</item>
+        <item>Pag-asa II</item>
+        <item>Pag-asa III</item>
+        <item>Poblacion I-A</item>
+        <item>Poblacion I-B</item>
+        <item>Poblacion I-C</item>
+        <item>Poblacion II-A</item>
+        <item>Poblacion II-B</item>
+        <item>Poblacion III-A</item>
+        <item>Poblacion III-B</item>
+        <item>Poblacion IV-A</item>
+        <item>Poblacion IV-B</item>
+        <item>Poblacion IV-C</item>
+        <item>Poblacion IV-D</item>
+        <item>Toclong I-A</item>
+        <item>Toclong I-B</item>
+        <item>Toclong I-C</item>
+        <item>Toclong II-A</item>
+        <item>Toclong II-B</item>
+        <item>Anabu I-A</item>
+        <item>Anabu I-B</item>
+        <item>Anabu I-C</item>
+        <item>Anabu I-D</item>
+        <item>Anabu I-E</item>
+        <item>Anabu I-F</item>
+        <item>Anabu I-G</item>
+        <item>Anabu II-A</item>
+        <item>Anabu II-B</item>
+        <item>Anabu II-C</item>
+        <item>Anabu II-D</item>
+        <item>Anabu II-E</item>
+        <item>Anabu II-F</item>
+        <item>Bagong Silang (Bahayang Pag-asa)</item>
+        <item>Bayan Luma I</item>
+        <item>Bayan Luma II</item>
+        <item>Bayan Luma III</item>
+        <item>Bayan Luma IV</item>
+        <item>Bayan Luma V</item>
+        <item>Bayan Luma VI</item>
+        <item>Bayan Luma VII</item>
+        <item>Bayan Luma VIII</item>
+        <item>Bayan Luma IX</item>
+        <item>Buhay na Tubig</item>
+        <item>Magdalo</item>
+        <item>Maharlika</item>
+        <item>Mariano Espeleta I</item>
+        <item>Mariano Espeleta II</item>
+        <item>Mariano Espeleta III</item>
+        <item>Palico I</item>
+        <item>Palico II</item>
+        <item>Palico III</item>
+        <item>Palico IV</item>
+        <item>Pasong Buaya I</item>
+        <item>Pasong Buaya II</item>
+        <item>Pinagbuklod</item>
+        <item>Tanzang Luma I</item>
+        <item>Tanzang Luma II</item>
+        <item>Tanzang Luma III</item>
+        <item>Tanzang Luma IV (Southern City)</item>
+        <item>Tanzang Luma V</item>
+
+    </string-array>
+
+    <string-array name="classifiedbreed_spinner">
+        <item>Aspin</item>
+        <item>Chihuahua</item>
+        <item>ChowChow</item>
+        <item>Dachshund</item>
+        <item>Golden Retriever</item>
+        <item>Pomeranian</item>
+        <item>Shih Tzu</item>
+        <item>Siberian Husky</item>
+        <item>American Curl</item>
+        <item>American Shorthair</item>
+        <item>Bengal</item>
+        <item>British Shorthair</item>
+        <item>Domestic Shorthair</item>
+        <item>Exotic Shorthair</item>
+        <item>Himalayan Cat</item>
+        <item>Persian Cat</item>
+        <item>Russian Blue</item>
+        <item>Siamese Cat</item>
+    </string-array>
+</resources>

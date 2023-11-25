@@ -1,2 +1,2 @@
 # Image-Classification-App
-Cat and Dog Brees TensorFlow Image Classification Application
+Cat and Dog Breeds TensorFlow Image Classification Application
